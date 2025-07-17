@@ -18,5 +18,5 @@ A simple Flask web application running inside a Docker container.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/docker-flask-app.git
-cd docker-flask-app
+git clone https://github.com/YOUR_USERNAME/Docker-flask-app.git
+cd Docker-flask-app
